@@ -1,4 +1,5 @@
 # Business_Analysys
+**University group project of Data Aanalysis which have been done in Python.**
 This repository contains business analysys of dataframes uploaded from https://www.kaggle.com.
 
 ## Matplotlib installation: 
