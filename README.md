@@ -1,13 +1,29 @@
 # Business_Analysys
+
 **University group project of data analysis which have been done in Python.**
-This repository contains business analysys of dataframes uploaded from https://www.kaggle.com.
+This repository contains business analysys of dataframes uploaded from https://www.kaggle.com. 
 
-## Matplotlib installation: 
+**Aim of this project:** analysis the influence of the technical condition on the price of Ford cars.
 
-To analyse dataframes you'll require proffesional library which is matplotlib. Type identical commands to install this library.
+## Table of contents
+* [Matplotlib installation](#matplotlib-installation)
+* [Technologies](#technologies)
+* [Starting the program](#starting-the-program)
+
+##  Matplotlib installation
+
+To analyse dataframes was used proffesional library which is matplotlib. Commands required to install this are shown below.
+
 ![obraz](https://user-images.githubusercontent.com/77791657/172053226-c57ea2dc-165e-40d9-8e0b-cab537b83770.png)
 
-## Uploading data and preparing dataset for the analysys:
+## Technologies
 
-![obraz](https://user-images.githubusercontent.com/77791657/172059360-be30a88b-e3f6-4596-adb8-9ae03620d463.png)
+
+
+## Starting the program
+
+##  
+
+
+
 
