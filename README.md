@@ -18,14 +18,6 @@ To analyse dataframes was used proffesional library which is matplotlib. Command
 
 ## Technologies
 
-The project was made entirely in Java. The paint method was used to draw elements, thanks to which the interface of the frame was designed.
-
-**List of crucial classes:
-* java.util.Arrays (storing data)
-* java.util.Random (random points)
-* javax.swing (frame interface)
-* java.awt (geometric structures)
-
 ## Starting the program
 
 ##  
